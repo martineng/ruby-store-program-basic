@@ -1,5 +1,3 @@
-# ruby-store-program-basic
-
 # To Test
 1) Create Some Objects
 2) You can now delete any objects and sort by name.
